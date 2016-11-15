@@ -1,0 +1,11 @@
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\bin\Debug\appEjercicio.exe
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\bin\Debug\appEjercicio.pdb
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.csprojResolveAssemblyReference.cache
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.Form1.resources
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.Properties.Resources.resources
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.Vista.frmRegistroUsuario.resources
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.csproj.GenerateResource.Cache
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.exe
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.pdb
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\bin\Debug\GoEmail.dll
+C:\Users\FRAGATA\Desktop\appEjercicio\appEjercicio\obj\Debug\appEjercicio.Vista.frmEnvioCorreo.resources
